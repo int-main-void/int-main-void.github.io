@@ -1,6 +1,6 @@
 +++
 date = '2025-06-24T10:09:29-07:00'
-draft = true
+draft = false
 title = 'Game Dev with Amazon Q'
 +++
 
