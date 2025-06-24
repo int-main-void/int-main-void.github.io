@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developing thoughts</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on developing thoughts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 10:09:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Dev with Amazon Q</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 24 Jun 2025 10:09:29 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Amazon is running a &lt;a href=&#34;https://community.aws/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli?trk=17fa81c7-a490-4008-bbc9-99ea0abacedf&#34;&gt;jam&lt;/a&gt; to encourage use of Amazon Q. Why not give it a whirl? They suggest vibing a retro game using PyGame. I&amp;rsquo;ve written a lot of Python code over the years, and quite a few games, but never PyGame. I also haven&amp;rsquo;t tried Q in a long time, when it was the &lt;em&gt;Code Whisperer&lt;/em&gt;&amp;hellip; time to see if it&amp;rsquo;s improved.&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;&#xA;&lt;p&gt;I decided to create a Space Invaders clone. I started by writing a README.md with a fairly detailed description of the game, and the development environment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
